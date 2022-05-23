@@ -1,10 +1,43 @@
 {
-  "devDependencies": {
-    "@babel/core": "^7.18.0",
-    "@babel/preset-env": "^7.18.0",
-    "babel-loader": "^8.2.5",
-    "babel-polyfill": "^6.26.0",
-    "webpack": "^5.72.1",
-    "webpack-cli": "^4.9.2"
-  }
+"name": "book--foundations-and-react-driven-advances-in-web-applications-development",
+"version": "1.0.0",
+"description": "Book: Foundations and React-Driven Advances in Web Applications Development",
+
+"scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "build": "webpack"
+},
+
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/niphee-oye/ES6-Primer--Foundations-and-React-Driven-Advances-in-Web-Applications-Development.git"
+},
+
+"keywords": [
+  "Git",
+  "JavaScript",
+  "NodeJS"
+],
+"author": "Oluwanifemi Oyewole",
+"license": "MIT",
+
+"homepage": "https://github.com/niphee-oye/ES6-Primer--Foundations-and-React-Driven-Advances-in-Web-Applications-Development.git#readme",
+
+"dependencies": {
+  "readline-sync": "^1.4.9"
+},
+
+"devDependencies": {
+  "@babel/core": "^7.4.3",
+  "@babel/plugin-proposal-class-properties": "^7.4.0",
+  "@babel/plugin-proposal-object-rest-spread": "^7.4.3",
+  "@babel/preset-env": "^7.4.3",
+  "@babel/preset-typescript": "^7.3.3",
+  "babel-loader": "^8.0.5",
+  "babel-polyfill": "^6.26.0",
+  "fork-ts-checker-webpack-plugin": "^1.0.1",
+  "typescript": "^3.4.3",
+  "webpack": "^4.29.6",
+  "webpack-cli": "^3.3.0"
+}
 }
