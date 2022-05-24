@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Launch Chrome for chapter10",
+            "file": "c:\\Users\\user\\Desktop\\DEVELOPMENTS\\book-examples\\Book--Foundations-and-React-Driven-Advances-in-Web-Applications-Development\\dist\\chapter10\\index.html",
+            "url": "http://localhost:5555/dist/chapter10/js/index.html"
+        }
+    ]
+}
